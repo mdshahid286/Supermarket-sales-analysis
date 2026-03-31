@@ -14,9 +14,7 @@ A comprehensive data analysis project examining supermarket sales patterns acros
 - [Technologies & Libraries](#technologies--libraries)
 - [Analysis Methodology](#analysis-methodology)
 - [Results & Visualizations](#results--visualizations)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
